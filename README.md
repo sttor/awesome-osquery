@@ -48,10 +48,12 @@ Curated List of osquery resources.
 * Building and effective EDR with osquery [link](https://medium.com/@atul_15222/building-an-effective-edr-f8b1b037d6da)
 * Adobe's Hubble and Osquery - [link](https://blogs.adobe.com/security/2017/12/introducing-hubblestack.html)
 * How are teams currently using osquery -[link](https://blog.trailofbits.com/2017/11/09/how-are-teams-currently-using-osquery/)
+* Osquery Cheat Sheet – Process Interrogation & Persistence Techniques - [link](https://defensivedepth.com/2018/10/10/osquery-cheat-sheet-process-interrogation-persistence-techniques/)
 
 
 ## Courseware
-* Free osquery training by Uptycs - [link](https://www.uptycs.com/free-osquery-training-intro-to-osquery)
+* Free - Osquery training by Uptycs - [link](https://www.uptycs.com/free-osquery-training-intro-to-osquery)
+* Paid - Osquery for Security Analysis - [link](https://www.networkdefense.io/library/osquery-for-security-analysis/71832/about/)
 
 ## Repository 
 * A repository for using osquery for incident detection and response. [osquery-configuration](https://github.com/palantir/osquery-configuration)
