@@ -57,7 +57,7 @@ Curated List of osquery resources.
 * A repository for using osquery for incident detection and response. [osquery-configuration](https://github.com/palantir/osquery-configuration)
 * Python Binding for osquery [osquery-python](https://github.com/osquery/osquery-python)
 * Go Binding for osquery [osquery-go](https://github.com/kolide/osquery-go)
-* Mapping the MITRE ATT&CK Matrix with Osquery (https://github.com/teoseller/osquery-attck)
+* Mapping the MITRE ATT&CK Matrix with Osquery [osquery-attck] (https://github.com/teoseller/osquery-attck)
 
 ## Opensource Fleet Manager
 * [Doorman](https://github.com/mwielgoszewski/doorman)
